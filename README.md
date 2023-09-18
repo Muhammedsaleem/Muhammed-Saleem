@@ -20,7 +20,7 @@
       - 🔆 Data visualization Tools like **Power BI**, **Tableau**.
    - ⛅ Cloud Platform.
       - 💪 Azure Cloud
-- 📫 Here's how you can reach me: [Email](muhammedsaleem439@gmail.com) | [LinkedIn](https://www.linkedin.com/)
+- 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/)
 - ❄️ Internship
    - Data Science Intern under Marketing Department from 19th April 2023 to 5th September 2023 at Access Million.
    - Python full stack from July 2019 to December 2019 at Integos Intelligence Solutions.
@@ -33,4 +33,4 @@
    - SQL Certification from Top Mentor.
    - Python full stack from Integos Intelligence Solution.
  
-If you want to talk to me or want to discuess something then feel free to ping on Linkedin or mail.
+If you want to talk to me or want to discuess something then feel free to ping on Linkedin.
